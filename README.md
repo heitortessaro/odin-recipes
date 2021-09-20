@@ -1,0 +1,1 @@
+This is the first project from the fundamentals chapter of The Odin Project. This project is mainly related to the development of a basic HTML aplication. 
