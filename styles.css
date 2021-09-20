@@ -1,0 +1,46 @@
+html{
+    font-family: "Georgia";
+}
+
+a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #8b833b;
+}
+
+h1,h2,h3{
+    text-align: center;
+}
+h1 {
+    color:#E0475B;  
+}
+h3 {
+    color: #294e02;
+}
+
+/*.figure {
+    display: block;
+    margin-left: 100px;
+    margin-right: auto;
+    width: 50%;
+    /*width: 10px;
+    height: auto;
+    background-color: green;**/
+/*}*/
+
+img {
+    height: auto;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+p,ul,ol {
+    text-align:justify;
+    color: #8b833b;
+}
+
+body {
+    background-color: #F8EFEA;
+}
+
